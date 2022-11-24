@@ -1,2 +1,2 @@
 # odin-recipes
-basic recipe website
+basic recipe website using html, css, and some of my fave recipes from youtube
